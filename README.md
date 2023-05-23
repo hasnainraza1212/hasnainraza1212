@@ -6,7 +6,7 @@
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnainraza1212" alt="hasnainraza1212" /></a> </p> -->
 
 <!-- <p align="center"> <a href="https://twitter.com/hasnain80384223" target="blank"><img src="https://img.shields.io/twitter/follow/hasnain80384223?logo=twitter&style=for-the-badge" alt="hasnain80384223" /></a> </p> -->
-
+<div align="center>
 - 🌱 I’m currently learning **Javascript, React, Vue, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-final-h.netlify.app/](https://portfolio-final-h.netlify.app/)
@@ -16,6 +16,8 @@
 - 📫 How to reach me **hr961992@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hasnain-raza-78325a1b4/](https://www.linkedin.com/in/hasnain-raza-78325a1b4/)
+  
+  </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
